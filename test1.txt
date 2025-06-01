@@ -1,1 +1,8 @@
-created test1.txt file
+so now we have created our first test1.txt file 
+so to upload in the git hub
+first after adding new file in the terminal,
+1. git add your file name
+2. git commit -m "if created write created or if modified write modified file name "
+3. git push origin main click enter
+That's it.
+
