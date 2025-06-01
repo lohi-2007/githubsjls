@@ -1,0 +1,7 @@
+so now we have created the new file,
+after this if we need to do some changes while now i am doing now and need to update this is to git hub then 
+follow these steps as i do now.
+now open the terminal first
+before doing this in the explorer it shoud show M if it shows then this has modified 
+right click in the mouse
+to show M in the explorer save by pressing ctrl + s then it will show M 
